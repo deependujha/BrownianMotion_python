@@ -11,3 +11,7 @@ BrownianMotion.main()
 ```
 
 ## Sample video:
+
+
+https://user-images.githubusercontent.com/76887609/229054222-9cbaa3fd-36af-4f82-b1dc-f3ded44c5ad1.mp4
+
